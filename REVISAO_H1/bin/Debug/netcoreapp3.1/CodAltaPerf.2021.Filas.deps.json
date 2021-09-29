@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodAltaPerf.2021.Filas/1.0.0": {
+        "runtime": {
+          "CodAltaPerf.2021.Filas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodAltaPerf.2021.Filas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
