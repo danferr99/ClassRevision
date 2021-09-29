@@ -18,6 +18,7 @@ namespace REVISAO_H1.Interfaces
         
         public IEnumerable<T> MultiPop(int k);
 
+        public string ValorConvertido();
 
 
     }

@@ -10,12 +10,15 @@ namespace REVISAO_H1
             FilaEstaticaInteiros f = new FilaEstaticaInteiros(10);
             f.Enfilera(10);
             f.Enfilera(20);
+            f.Enfilera(30);
+            f.Enfilera(40);
+
             int t = f.Tamanho();
             bool b = f.EstaVazia();
             bool b1 = f.EstaCheia();
             int x = f.Desenfilera();
 
-            Console.WriteLine("Teste Fila!");
+            Console.WriteLine("Testando fila");
             Console.ReadLine();
         }
     }
